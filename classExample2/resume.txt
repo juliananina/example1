@@ -1,0 +1,3 @@
+This is my resume.
+Added some school-related content.
+Updated resume content in the school branch.
